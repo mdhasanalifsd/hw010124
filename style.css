@@ -1,0 +1,12 @@
+/*External CSS/ Tag Selector CSS*/
+h2{
+	color:green; background-color:yellow;
+}
+/*Class Selector CSS*/
+.cssclass{
+	background-color: skyblue; border: 5px solid blueviolet;
+}
+/* ID Selector CSS*/
+#idcss{
+	background: red; color:whitesmoke; border: 10px dotted deepskyblue;
+}
